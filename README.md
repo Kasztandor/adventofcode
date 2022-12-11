@@ -1,5 +1,5 @@
-# Advent of Code 2022
-Advent of Code 2022 in C++.
+# Advent of Code
+Advent of Code in python.
 
 ## Files
 ```
